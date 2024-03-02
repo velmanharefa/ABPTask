@@ -5,19 +5,29 @@
     font-style: normal;
 }
 
+.jdl{
+    background-color: grey;
+    color: white;
+}
+
 .pict{
     width:200px;
     height: 200px;
     object-fit: contain;
 }
 
-.pict2{
+.pict2 img{
     width:200px;
     height: 200px;
     object-fit: contain;
 }
 
+
 .judul{
     font-size: 4rem;
     text-align: center;
+}
+
+.teks p{
+    text-align: justify;
 }
