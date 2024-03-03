@@ -5,20 +5,38 @@
     font-style: normal;
 }
 
-.jdl{
-    background-color: grey;
+
+.navigasi a{
     color: white;
+}
+
+.jdl{
+    background-color: #B4B4B8;
+    color: white;
+}
+
+.navigasi{
+    background-color: #B4B4B8;
+    height: 450px;
+}
+
+.desc{
+    background-color: #E3E1D9;
+}
+
+.lompat_batu{
+    background-color: #B4B4B8;
 }
 
 .pict{
     width:200px;
     height: 200px;
-    object-fit: contain;
+    object-fit: contain;    
 }
 
 .pict2 img{
-    width:200px;
-    height: 200px;
+    width:210px;
+    height: 210px;
     object-fit: contain;
 }
 
@@ -30,4 +48,8 @@
 
 .teks p{
     text-align: justify;
+}
+
+.jarak{
+    height: 8px;
 }
