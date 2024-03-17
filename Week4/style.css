@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    
+}
+
+.navigasi a{
+    color: white;
+}
+
+.jdl{
+    background-color: #B4B4B8;
+    color: white;
+}
+
+.navigasi{
+    background-color: #B4B4B8;
+    height: 450px;
+}
+
+.desc{
+    background-color: #E3E1D9;
+}
+
+.lompat_batu, .week_3{
+    background-color: #B4B4B8;
+}
+
+.pict{
+    width:200px;
+    height: 200px;
+    /* object-fit: contain;     */
+}
+
+.pict2 img{
+    width:210px;
+    height: 210px;
+    border-radius: 3%;
+    /* object-fit: contain; */
+}
+
+.week_3{
+    width:210px;
+    height: 92px;
+    border-radius: 3%;
+}
+
+
+.judul{
+    font-size: 4rem;
+    text-align: center;
+}
+
+.teks p{
+    text-align: justify;
+}
+
+.jarak{
+    height: 8px;
+}
+
+.random_dog img{
+    width: 200px;
+}
+
+button{
+    height: 50px;
+    border-radius: 5px;
+}
+
